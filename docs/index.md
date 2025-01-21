@@ -1,5 +1,3 @@
-# [Audix](https://audix.ai/)
-
 ## INTRODUCTION
 
 ### Overview
