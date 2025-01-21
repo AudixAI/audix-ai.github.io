@@ -1,4 +1,4 @@
-# [Audix AI](https://audix.ai/)
+# [Audix](https://audix.ai/)
 
 ## INTRODUCTION
 
