@@ -1,4 +1,4 @@
-# audix-ai.github.io
+# [Audix AI](https://audix.ai/)
 
 ## INTRODUCTION
 
